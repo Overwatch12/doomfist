@@ -1,30 +1,58 @@
+
 <dir>
-   <title>Movies</title>
-   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20movies.xml</link>
+<title>Stage Plays</title>
+<tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
 </dir>
 
 <dir>
-   <title>Tv</title>
-   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
+<title>Motown</title>
+<tmdb>list/https://www.themoviedb.org/list/51461</tmdb>
+</dir>
+<xml>
+  <dir>
+    <title>Concert</title>
+    <link>https://raw.githubusercontent.com/Overwatch12/doomfist/master/concert.xml</link>
+  </dir>
+
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
+  </dir>
+ 
+ <dir>
+  <title>Hood Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/icu%20hood.xml</link>
 </dir>
 
 <dir>
-<title>Upcoming Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+<title>B Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
 </dir>
 
 <dir>
-   <title>Movies boxset</title>
-   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
+<title>B Movies 2</title>
+<tmdb>list/https://www.themoviedb.org/list/51248</tmdb>
 </dir>
 
 <dir>
-<title>Search TMDB</title>
-<tmdb>search</tmdb>
+<title>lovers only</title>
+<tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
 </dir>
 
-</xml><plugin>
-<name>settings</name>
-<link>plugin://plugin.video.end/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
+<dir>
+<title>Dance</title>
+<tmdb>list/https://www.themoviedb.org/list/48623</tmdb>
+</dir>
+
+<xml>
+  <dir>
+    <title>Comedy</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
+  </dir>
+
+   <dir>
+<title>Urban TV</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
+ 
